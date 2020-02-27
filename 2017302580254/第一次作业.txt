@@ -1,0 +1,6 @@
+# 何知凡 第一次作业  
+*ping 百度主页*
+![截图1](ping.png)
+*tracert 百度主页*
+![截图2](tracert.png)
+(markdownpad2 出现问题 暂时无法预览 先用txt写一次)
